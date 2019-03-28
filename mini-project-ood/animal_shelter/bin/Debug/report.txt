@@ -1,0 +1,10 @@
+Daily report
+date: 26.3.2019 г. 19:00:49
+
+Number of animals in the shelter: 8
+Number of dogs: 4    Number of cats:4
+Number of people registrated in the shelter:6
+Number of adopted animals: 0
+Number of not adopted animals: 8
+--------------------------------------------------------------------------
+

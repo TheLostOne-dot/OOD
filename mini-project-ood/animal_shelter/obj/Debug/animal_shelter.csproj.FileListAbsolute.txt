@@ -1,0 +1,10 @@
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\bin\Debug\animal_shelter.exe.config
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\bin\Debug\animal_shelter.exe
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\bin\Debug\animal_shelter.pdb
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\obj\Debug\animal_shelter.csprojAssemblyReference.cache
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\obj\Debug\animal_shelter.Form1.resources
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\obj\Debug\animal_shelter.Properties.Resources.resources
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\obj\Debug\animal_shelter.csproj.GenerateResource.cache
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\obj\Debug\animal_shelter.csproj.CoreCompileInputs.cache
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\obj\Debug\animal_shelter.exe
+D:\Stefan\OOD1\mini-project-ood\animal_shelter\obj\Debug\animal_shelter.pdb

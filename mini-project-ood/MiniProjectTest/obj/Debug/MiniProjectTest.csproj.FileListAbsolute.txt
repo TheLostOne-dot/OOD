@@ -1,0 +1,17 @@
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\MiniProjectTest.dll
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\MiniProjectTest.pdb
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\animal_shelter.exe
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\animal_shelter.pdb
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\animal_shelter.exe.config
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\obj\Debug\MiniProjectTest.csprojAssemblyReference.cache
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\obj\Debug\MiniProjectTest.csproj.CoreCompileInputs.cache
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\obj\Debug\MiniProjectTest.csproj.CopyComplete
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\obj\Debug\MiniProjectTest.dll
+D:\Stefan\OOD1\mini-project-ood\MiniProjectTest\obj\Debug\MiniProjectTest.pdb
